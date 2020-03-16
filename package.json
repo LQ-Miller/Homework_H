@@ -1,0 +1,23 @@
+{
+  "name": "homework_h",
+  "version": "1.0.0",
+  "description": "Unit Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LQ-Miller/Homework_H.git"
+  },
+  "author": "Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LQ-Miller/Homework_H/issues"
+  },
+  "homepage": "https://github.com/LQ-Miller/Homework_H#readme",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "minimist": "^1.2.5"
+  }
+}
